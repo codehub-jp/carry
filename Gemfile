@@ -64,3 +64,9 @@ group :development do
   # gem "spring"
 end
 
+# Add gem by me
+
+gem 'devise' #認証機能実装
+
+gem 'kaminari' #ページネーション実装
+
